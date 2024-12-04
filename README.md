@@ -192,7 +192,7 @@ public void RestartGame()
    ```bash
    git clone https://github.com/GameAtraSabaNiaHaniPooria/EndlessRunner.git
    ```
-2. Open the project in Unity.
+2. Open the project in Unity. Switch to the `develop` branch before opening the project in Unity.
 3. Play the game in the Unity Editor or build it for your preferred platform.
 
 ---
