@@ -190,7 +190,7 @@ public void RestartGame()
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/GameAtraSabaNiaHaniPooria/EndlessRunner.git>
    ```
 2. Open the project in Unity.
 3. Play the game in the Unity Editor or build it for your preferred platform.
